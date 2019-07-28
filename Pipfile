@@ -11,6 +11,12 @@ pandas = "*"
 xlrd = "*"
 matplotlib = "*"
 pprint = "*"
+jupyter = "*"
+ipython = "==6.5.0"
+jupyterlab = "*"
+prompt-toolkit = "<2.0.0,>=1.0.15"
+pyecharts = "*"
+xlsxwriter = "*"
 
 [requires]
 python_version = "3.7"
